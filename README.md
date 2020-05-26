@@ -4,7 +4,7 @@
 
 Oh No! Those Nasty Hooligans are trying to blow up your conveniently placed "Bomb Room" in your factory! But you're in luck, you, the famous Mr. ChChaplin, has just created his latest and greatest invention: the robot! Quickly build robots to defend your bomb room for as long as you can!
 
-A game made during Global Game Jam, 29 - 31 January, 2020. Co-developed with Cheemis.
+A game made during Global Game Jam, 29-31 January, 2020. Co-developed with Cheemis.
 
 ### Exclusive in-game footage
 
